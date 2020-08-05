@@ -1,1 +1,1 @@
-alias arbolito="git log --all --graph --decorate --online"
+alias arbolito="git log --all --graph --decorate --oneline"
