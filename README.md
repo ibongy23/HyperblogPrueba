@@ -11,6 +11,7 @@ Un blog increible para el curso de platzi git y github
 - Flujo de trabajo en GitHub
 - Las bueenas practicas de trabajo 
 - Las multiples personalidades del profe @Freddier
+- Creado por platzi team :D
 
 
 # Editor.md
