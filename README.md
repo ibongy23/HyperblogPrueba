@@ -12,6 +12,7 @@ Un blog increible para el curso de platzi git y github
 - Las bueenas practicas de trabajo 
 - Las multiples personalidades del profe @Freddier
 - Creado por platzi team :D
+- Incluye ejemplos en windows, linux y Mac
 
 
 # Editor.md
